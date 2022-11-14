@@ -1,0 +1,33 @@
+name: weather_app
+description: Weather App
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.5
+  provider: ^6.0.4
+  http: ^0.13.5
+  geolocator: ^9.0.2
+  geocoding: ^2.0.5
+  shared_preferences: ^2.0.15
+  intl: ^0.17.0
+  google_fonts: ^3.0.1
+  connectivity_plus: ^3.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
