@@ -1,4 +1,4 @@
-package com.pencilbox.weather_app.weather_app
+package com.pencilbox.weather_app
 
 import io.flutter.embedding.android.FlutterActivity
 
