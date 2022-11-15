@@ -1,4 +1,4 @@
-const String weather_api_key = '98134036c74a0c1f1ef7349d7f4f9242';
+const String weather_api_key = '';
 const String celsius = 'C';
 const String fahrenheit = 'F';
 const String metric = 'metric';
